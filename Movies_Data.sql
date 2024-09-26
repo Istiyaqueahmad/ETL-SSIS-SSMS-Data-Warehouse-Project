@@ -1,4 +1,4 @@
--- Select database 
+-- Select database --
  USE [Movies_data]
 
  --Delete Work_table if existed and create it again
